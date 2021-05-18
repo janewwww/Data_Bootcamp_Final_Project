@@ -40,7 +40,7 @@ Clustering over mutual funds using regression parameters as features
 
 ## 4. Methodology
 
-## 5. Key visualizations:
+## 5. Key visualizations
 ### Figure 1, 2: 
 Heatmap of size and value sorted portfolio returns’ regression coefficients on SMB and HML
 
