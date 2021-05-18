@@ -39,6 +39,9 @@ Compare and categorize mutual funds based on value of betas and r-squared ("scor
 Clustering over mutual funds using regression parameters as features
 
 ## 4. Methodology
+Given that our factors are constructed based on historical data of US stocks, they construct a model that better explains the return of mutual funds whose major asset allocation is stocks. The fixed-income mutual funds, on the other hand, follows the money market movement and are explained by different factors. Therefore, we reversely extrapolate the main target asset class of the funds from the regression model goodness of fit.
+Furthermore, we can also infer the investment style of the funds. A positive and significant beta on a certain factor implies that the return can be contributed to this risk factor exposure. For instance, the positive coefficient on SMB factor implies the fund’s leveraging on small capitalization stocks more than big capitalization stocks, while the negative coefficient on HML factor implies the fund’s leveraging on growth stocks more than value stocks.
+
 
 ## 5. Key visualizations
 ### Figure 1, 2: 
