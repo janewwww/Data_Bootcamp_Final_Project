@@ -58,5 +58,5 @@ Pie chart of different size and value categories of mutual funds, estimated base
 Elbow curve for selecting k of k-means model;
 3D scatter plot of size, value coefficients and r-squared, with color indicating the cluster labeled by the model
 
-## 6.Limitations and potential improvement:
+## 6. Limitations and potential improvement:
 - Theory supporting unsupervised learning outcomes 
