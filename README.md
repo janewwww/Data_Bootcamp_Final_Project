@@ -49,3 +49,7 @@ Scatter plot of size and value coefficients, with color indicating the fitness o
 
 ### Figure 4:
 Pie chart of different size and value categories of mutual funds, estimated based on the regression coefficients
+
+### Figure 5, 6:
+Elbow curve for selecting k of k-means model;
+3D scatter plot of size, value coefficients and r-squared, with color indicating the cluster labeled by the model
